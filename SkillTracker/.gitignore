@@ -16,6 +16,9 @@
 .settings
 .springBeans
 .sts4-cache
+.mvn/wrapper
+.gitattributes
+
 
 # IntelliJ IDEA
 .idea/
