@@ -16,8 +16,8 @@
 .settings
 .springBeans
 .sts4-cache
-.mvn/wrapper
-.gitattributes
+
+
 
 
 # IntelliJ IDEA
@@ -29,6 +29,8 @@ out/
 .project
 .classpath
 .settings/
+.mvn/
+.gitattributes
 
 # VS Code
 .vscode/
